@@ -1,2 +1,2 @@
 # MetMuseumDragons
-## Data about dragons from the Met Museums database 
+Data about dragons from the Met Museums database 
